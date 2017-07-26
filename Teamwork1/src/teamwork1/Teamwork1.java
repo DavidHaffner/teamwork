@@ -15,7 +15,7 @@ public class Teamwork1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //David - domácí pokus o push do repo Teamwork
     }
     
 }
